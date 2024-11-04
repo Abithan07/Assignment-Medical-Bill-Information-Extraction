@@ -1,0 +1,401 @@
+[
+    {
+        "Page_Number": 1,
+        "Table": [
+            {
+                "Code": "SINGAPORE",
+                "DESCRIPTION": "Visit Date 122.10.2018",
+                "QTY": "1153",
+                "TOTAL": "hrs"
+            },
+            {
+                "Code": "HLA03074",
+                "DESCRIPTION": "HLA DQB TYPING (PCR INT TO HIGH RES)",
+                "QTY": "1",
+                "TOTAL": "243.93"
+            },
+            {
+                "Code": "HLA08027",
+                "DESCRIPTION": "HLA ABCDR TYPING (SBT) FOR LOCAL TRANSPLANT",
+                "QTY": "1",
+                "TOTAL": "885.98"
+            },
+            {
+                "Code": "HF703102",
+                "DESCRIPTION": "HANDLING FEE",
+                "QTY": "1",
+                "TOTAL": "18.00"
+            },
+            {
+                "Code": "10009606",
+                "DESCRIPTION": "CREATININE CLEARANCE TEST (CCT)",
+                "QTY": "1",
+                "TOTAL": "24.90"
+            },
+            {
+                "Code": "10010709",
+                "DESCRIPTION": "GLUCOSE-6-PHOSPHATE OEHYDROGENAS",
+                "QTY": "1",
+                "TOTAL": "23.30"
+            },
+            {
+                "Code": "10010709",
+                "DESCRIPTION": "GLUCOSE-6-PHOSPHATE DEHYDROGENAS",
+                "QTY": "1",
+                "TOTAL": "23.30"
+            },
+            {
+                "Code": "10019326",
+                "DESCRIPTION": "VARICELLA-ZOSTER IGG AB",
+                "QTY": "1",
+                "TOTAL": "43.80"
+            },
+            {
+                "Code": "10024120",
+                "DESCRIPTION": "CYTOMEGALOVIRUS IGM AB",
+                "QTY": "1",
+                "TOTAL": "54.00"
+            },
+            {
+                "Code": "10025806",
+                "DESCRIPTION": "ANTIBODY TITRATIN SALINE",
+                "QTY": "2",
+                "TOTAL": "86.40"
+            },
+            {
+                "Code": "10030509",
+                "DESCRIPTION": "VDRL TEST",
+                "QTY": "1",
+                "TOTAL": "38.70"
+            },
+            {
+                "Code": "10033603",
+                "DESCRIPTION": "HEPATITIS B SURFACE ANTIGEN (HBS)",
+                "QTY": "1",
+                "TOTAL": "28.70"
+            },
+            {
+                "Code": "11007650",
+                "DESCRIPTION": "VNTR ANALYSIS",
+                "QTY": "1",
+                "TOTAL": "297.80"
+            },
+            {
+                "Code": "22002309",
+                "DESCRIPTION": "HIV SCREEN~",
+                "QTY": "1",
+                "TOTAL": "37.80"
+            },
+            {
+                "Code": "70205046",
+                "DESCRIPTION": "HEPATITIS B CORE TOTAL AB",
+                "QTY": "1",
+                "TOTAL": "53.90"
+            },
+            {
+                "Code": "70205050",
+                "DESCRIPTION": "CYTOMEGALOVIRUS IGG AB EIA",
+                "QTY": "1",
+                "TOTAL": "41.10"
+            },
+            {
+                "Code": "70205065",
+                "DESCRIPTION": "HTLV /I| ANTIBODY",
+                "QTY": "1",
+                "TOTAL": "103.90"
+            },
+            {
+                "Code": "ABO",
+                "DESCRIPTION": "ABO AND RHO TYPING",
+                "QTY": "2",
+                "TOTAL": "72.80"
+            },
+            {
+                "Code": "~",
+                "DESCRIPTION": "Total Charges",
+                "QTY": "Fayable",
+                "TOTAL": "2296.51"
+            },
+            {
+                "Code": "AMOUNT",
+                "DESCRIPTION": "PAYASLE BEFORE TAX ~ :",
+                "QTY": "~",
+                "TOTAL": "2296.51"
+            },
+            {
+                "Code": "AMOUNT",
+                "DESCRIPTION": "PAYABLE AFTER TAX",
+                "QTY": "\"7",
+                "TOTAL": "2487.28"
+            },
+            {
+                "Code": "NET",
+                "DESCRIPTION": "AMOUNT",
+                "QTY": "PAYABLE",
+                "TOTAL": "2457.28"
+            },
+            {
+                "Code": "fies)",
+                "DESCRIPTION": "Cisse",
+                "QTY": "me",
+                "TOTAL": "0.00"
+            }
+        ],
+        "Key_Values": {
+            "Date Found": [
+                "22.10.2018",
+                "22.10.2018"
+            ],
+            "Visit Date": "22/10/2018",
+            "Tax Invoice Date": "22/10/2018",
+            "Hospital / clinic": "Singapore General Hospital",
+            "GST Reg No": "MS0368910N",
+            "Total Amount Payable": "2457.28"
+        }
+    },
+    {
+        "Page_Number": 2,
+        "Table": [
+            {
+                "Code": "76000205",
+                "DESCRIPTION": "SNR CONS - REPEAT VISIT",
+                "QTY": "1",
+                "TOTAL": "190.00"
+            },
+            {
+                "Code": "10004803",
+                "DESCRIPTION": "ALANINE AMINO TRANSFERASE (ALT)",
+                "QTY": "1",
+                "TOTAL": "13.90"
+            },
+            {
+                "Code": "10004904",
+                "DESCRIPTION": "ALBUMIN",
+                "QTY": "1",
+                "TOTAL": "13.90"
+            },
+            {
+                "Code": "10006007",
+                "DESCRIPTION": "ASPARTATE AMINO TRANSFERASE (AST)",
+                "QTY": "1",
+                "TOTAL": "13.30"
+            },
+            {
+                "Code": "10007008",
+                "DESCRIPTION": "BILIRUBIN TOTAL",
+                "QTY": "1",
+                "TOTAL": "41.60"
+            },
+            {
+                "Code": "10009505",
+                "DESCRIPTION": "CREATININE",
+                "QTY": "1",
+                "TOTAL": "12.10"
+            },
+            {
+                "Code": "10013106",
+                "DESCRIPTION": "MAGNESIUM",
+                "QTY": "1",
+                "TOTAL": "47.40"
+            },
+            {
+                "Code": "10014602",
+                "DESCRIPTION": "PHOSPHATASE ALKALINE",
+                "QTY": "1",
+                "TOTAL": "16.70"
+            },
+            {
+                "Code": "10015401",
+                "DESCRIPTION": "POTASSIUM",
+                "QTY": "1",
+                "TOTAL": "41.60"
+            },
+            {
+                "Code": "11001003",
+                "DESCRIPTION": "FULL BLOOD COUNT",
+                "QTY": "1",
+                "TOTAL": "30.40"
+            },
+            {
+                "Code": "CYTO2STD",
+                "DESCRIPTION": "INFUSION SOLN",
+                "QTY": "1",
+                "TOTAL": "7.00"
+            },
+            {
+                "Code": "PHANS2",
+                "DESCRIPTION": "DiphenhydrAMINE HCL SOMG/ML INJ",
+                "QTY": "1",
+                "TOTAL": "2.00"
+            },
+            {
+                "Code": "PHASTD",
+                "DESCRIPTION": "HYDROCORTISONE SOD SUCCINATE* 100MG INJ",
+                "QTY": "1",
+                "TOTAL": "2.76"
+            },
+            {
+                "Code": "PHASTD",
+                "DESCRIPTION": "PARACETAMOL* 500MG TAB",
+                "QTY": "2",
+                "TOTAL": "0.10"
+            },
+            {
+                "Code": "79201207",
+                "DESCRIPTION": "FLUSHING OF CENTRAL VENOUS CATHETER",
+                "QTY": "1",
+                "TOTAL": "60.20"
+            },
+            {
+                "Code": "75203119",
+                "DESCRIPTION": "IV CHEMOTHERAPY INFUSION",
+                "QTY": "1",
+                "TOTAL": "85.30"
+            },
+            {
+                "Code": "76003309",
+                "DESCRIPTION": "DRESSING '/STO |",
+                "QTY": "1",
+                "TOTAL": "38.70"
+            },
+            {
+                "Code": "HAEPREPS",
+                "DESCRIPTION": "HAEMATOLOGY ORUG PREPARATION FEE (SIMPLE}",
+                "QTY": "1",
+                "TOTAL": "10.60"
+            },
+            {
+                "Code": "ADD:",
+                "DESCRIPTION": "7%",
+                "QTY": "GST",
+                "TOTAL": "43.07"
+            },
+            {
+                "Code": "NET",
+                "DESCRIPTION": "AMOUNT",
+                "QTY": "PAYABLE",
+                "TOTAL": "858.63"
+            },
+            {
+                "Code": "ie",
+                "DESCRIPTION": "",
+                "QTY": ".",
+                "TOTAL": "658.53"
+            }
+        ],
+        "Key_Values": {
+            "Date Found": [
+                "09.10.2018",
+                "09.10.2018",
+                "05.10.2018"
+            ],
+            "Visit Date": "05/10/2018",
+            "Tax Invoice Date": "09/10/2018",
+            "Hospital / clinic": "Singapore General Hospital",
+            "GST Reg No": "M90368910N",
+            "Total Amount Payable": "858.63"
+        }
+    },
+    {
+        "Page_Number": 3,
+        "Table": [
+            {
+                "Code": "Charges",
+                "DESCRIPTION": "",
+                "QTY": "Payable",
+                "TOTAL": "101.20"
+            },
+            {
+                "Code": "Total",
+                "DESCRIPTION": "Amount",
+                "QTY": "Payable",
+                "TOTAL": "266.66"
+            },
+            {
+                "Code": "ROUND",
+                "DESCRIPTION": "DOWN FOR AMOUNT PAYABLE BY",
+                "QTY": "PATIENT",
+                "TOTAL": "0.02-"
+            },
+            {
+                "Code": "INTEGRATED",
+                "DESCRIPTION": "GREAT EASTERN",
+                "QTY": "SUPREMEHEALTH",
+                "TOTAL": "240.00"
+            },
+            {
+                "Code": "TOTAL",
+                "DESCRIPTION": "DUE AFTER",
+                "QTY": "PAYMENT",
+                "TOTAL": "0.50"
+            },
+            {
+                "Code": "MEDISHIELD",
+                "DESCRIPTION": "",
+                "QTY": "LIFE",
+                "TOTAL": "239.53"
+            },
+            {
+                "Code": "GREAT",
+                "DESCRIPTION": "EASTERN SUPREMEHEALTH ADDITIONAL",
+                "QTY": "COVERAGE",
+                "TOTAL": "0.47"
+            },
+            {
+                "Code": "Si",
+                "DESCRIPTION": "\\ ae",
+                "QTY": "en",
+                "TOTAL": "26.14"
+            },
+            {
+                "Code": "Total",
+                "DESCRIPTION": "amount payable after GST is $285.31. 2 7",
+                "QTY": "NOV",
+                "TOTAL": "2018"
+            },
+            {
+                "Code": "Total",
+                "DESCRIPTION": "GST for this bill at 7% is $18.65 which is absorbed by the",
+                "QTY": "Government.",
+                "TOTAL": "."
+            }
+        ],
+        "Key_Values": {
+            "Date Found": [
+                "02.04.2018",
+                "16.04.2018",
+                "02.04.2018"
+            ],
+            "Visit Date": "02/04/2018",
+            "Tax Invoice Date": "16/04/2018",
+            "GST Reg No": "M2-0094564-6"
+        }
+    },
+    {
+        "Page_Number": 4,
+        "Table": [
+            {
+                "Code": "Total",
+                "DESCRIPTION": "amount payable after GST",
+                "QTY": "is",
+                "TOTAL": "$378.14."
+            },
+            {
+                "Code": "Total",
+                "DESCRIPTION": "GST for this bill at 7% Is $24.76 which is absorbed by",
+                "QTY": "the",
+                "TOTAL": "Government."
+            }
+        ],
+        "Key_Values": {
+            "Date Found": [
+                "11.06.2018",
+                "08.07.2018",
+                "11.06.2018"
+            ],
+            "Visit Date": "11/06/2018",
+            "Tax Invoice Date": "08/07/2018",
+            "GST Reg No": "NO"
+        }
+    }
+]
